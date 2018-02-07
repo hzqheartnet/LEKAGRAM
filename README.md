@@ -105,6 +105,7 @@ The Vive Developer Edition uses two 1200 x 1080 displays that refresh at 90 fram
 
 ****sketches of idea*****
 <p>
-google drive link : ![](https://drive.google.com/open?id=1bdCaMj826GbfXrZjABtbnfFO8fVRvmeq)
+![27783409_10208371234798196_2073868419_n](https://user-images.githubusercontent.com/34503811/35932811-b2d9afc8-0c73-11e8-87ca-75b84971b5a0.jpg)
+
 http://www.ubi-interactive.com/
 https://www.raywenderlich.com/149239/htc-vive-tutorial-unity
